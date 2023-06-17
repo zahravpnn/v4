@@ -262,41 +262,48 @@ echo -e "${BIYellow}□ CPU Usage           = $cpu_usage"
 echo -e "${BIYellow}□ Clients Name        = ${GREEN}$Name${NC}"
 echo -e "${BIYellow}□ Expired Script VPS  = ${GREEN}$Exp${NC}"
 echo -e "${BIYellow}□ Time Reboot VPS     = 00:00 ${GREEN}( Jam 12 Malam )${NC}"
-echo -e "${BIYellow}□ License Limit       = ORDER ${GREEN}( ke saya )${NC}"
-echo -e "${BIYellow}□ AutoScript By Dev   = Wak ${GREEN}( SETANTAZVPN )${NC}"
-echo -e "${green}════════════════════════════════════════════════════════════${NC}"
-echo -e "${BGBLUE}              [ PREMIUM SCRIPT BY SETANTAZVPN ]                     ${NC}"
-echo -e "${green}════════════════════════════════════════════════════════════${NC}"
-echo -e "$Lyellow               SCRIPT VPS by SETANTAZVPN"$NC
-echo -e "${green}════════════════════════════════════════════════════════════${NC}"
-echo -e "${BGBLUE}                     [ PANEL MENU ]                          ${NC}"
-echo -e "${green}════════════════════════════════════════════════════════════${NC}"
-echo -e "$PURPLE (•1) $NC PANEL SSH & OPENVPN  "
-echo -e "$PURPLE (•2) $NC PANEL VMESS          "
-echo -e "$PURPLE (•3) $NC PANEL VLESS          "
-echo -e "$PURPLE (•4) $NC PANEL TROJAN GO      "
-echo -e "$PURPLE (•5) $NC PANEL TROJAN GFW     "
-echo -e "$PURPLE (•6) $NC INSTALL UDP          "
-echo -e "${green}════════════════════════════════════════════════════════════${NC}"
-echo -e ""
+echo -e "${BIYellow}□ License Limit       = ORDER ${GREEN}( 082131861788 )${NC}"
+echo -e "${BIYellow}□ AutoScript By Dev   = Wak ${GREEN}( AndyYuda )${NC}"
+
+echo -e "${BICyan} ┌─────────────────────────────────────────────────────┐${NC}"
+echo -e "${BICyan} │                  ${BIWhite}${UWhite}ANDYYUDA TUNELING${NC}"
+echo -e "${BICyan} │"
+echo -e " ${BICyan}│  ${BICyan}Use Core        :  ${BIPurple}XRAY${NC}"
+echo -e " ${BICyan}│  ${BICyan}IP-VPS          :  ${BIYellow}$IPVPS${NC}"
+echo -e " ${BICyan}└─────────────────────────────────────────────────────┘${NC}"
+
+echo -e "${GREEN}INGATLAH KAWAN DILANGIT MASIH ADA LANGIT JAGAN LUPA DIRI${NC}" 
+
 echo -e "${GREEN}┌──────────────────────────────────────────────────┐${NC}" 
 echo -e "${GREEN}│  \033[0m ${BOLD}${YELLOW}SSH     VMESS       VLESS      TROJAN $NC" 
 echo -e "${GREEN}│  \033[0m ${Blue} $ssh1        $vma           $vla          $tra $NC" 
 echo -e "${GREEN}└──────────────────────────────────────────────────┘${NC}" 
-echo -e "${green}════════════════════════════════════════════════════════════${NC}"
-echo -e "${BGBLUE}                     [ SETING MENU ]                        ${NC}"
-echo -e "${green}════════════════════════════════════════════════════════════${NC}"
-echo -e "$PURPLE (7) $NC GANTI DOMAIN         $PURPLE (15) $NC CEK BANDWITH "
-echo -e "$PURPLE (8) $NC RENEW CERTIFICATE    $PURPLE (16) $NC GANTI NS "
-echo -e "$PURPLE (9) $NC CHANGE PORT          $PURPLE (17) $NC REBOOT VPS "
-echo -e "$PURPLE (10) $NC CHANGE BANNER       $PURPLE (18) $NC SPEEDTEST VPS "
-echo -e "$PURPLE (11) $NC BACKUP DATA VPS     $PURPLE (19) $NC UPDATE SCRIPT "
-echo -e "$PURPLE (12) $NC RESTORE DATA VPS    $PURPLE (20) $NC SET AUTO REBOT "
-echo -e "$PURPLE (13) $NC WEBMIN MENU         $PURPLE (21) $NC RESTARTS "
-echo -e "$PURPLE (14) $NC RUNNING SYSTEM      $PURPLE (22) $NC INFO SCRIPT "
-echo -e "${green}════════════════════════════════════════════════════════════${NC}"
-echo -e "$Lyellow Premium VPS by SETANTAZVPN"$NC
-echo -e "${green}════════════════════════════════════════════════════════════${NC}"
+  
+echo -e "     ${BICyan} SSH ${NC}: $ressh"" ${BICyan} NGINX ${NC}: $resngx"" ${BICyan}  XRAY ${NC}: $resv2r"" ${BICyan} TROJAN ${NC}: $resv2r"
+echo -e "   ${BICyan}     STUNNEL ${NC}: $resst" "${BICyan} DROPBEAR ${NC}: $resdbr" "${BICyan} SSH-WS ${NC}: $ressshws"
+echo -e "${BICyan} ┌─────────────────────────────────────────────────────┐${NC}"
+echo -e "     ${BICyan}[${BIWhite}01${BICyan}] SSH     ${BICyan}[${BIYellow}Menu${BICyan}]${NC}"    "     ${BICyan}[${BIWhite}06${BICyan}] TRIALL    ${BICyan}[${BIYellow}Menu${BICyan}]${NC}" "${BICyan}   │"
+echo -e "     ${BICyan}[${BIWhite}02${BICyan}] VMESS   ${BICyan}[${BIYellow}Menu${BICyan}]${NC}" "     ${BICyan}[${BIWhite}07${BICyan}] BACKUP    ${BICyan}[${BIYellow}Menu${BICyan}]${NC}" "${BICyan}   │"
+echo -e "     ${BICyan}[${BIWhite}03${BICyan}] VLESS   ${BICyan}[${BIYellow}Menu${BICyan}]${NC}"  "     ${BICyan}[${BIWhite}08${BICyan}] ADD-HOST      ${NC}" "${BICyan}     │"
+echo -e "     ${BICyan}[${BIWhite}04${BICyan}] TROJAN  ${BICyan}[${BIYellow}Menu${BICyan}]${NC}" "     ${BICyan}[${BIWhite}09${BICyan}] RUNNING             │"
+echo -e "     ${BICyan}[${BIWhite}05${BICyan}] SETING  ${BICyan}[${BIYellow}Menu${BICyan}]${NC}"  "     ${BICyan}[${BIWhite}10${BICyan}] SET REBOOT${BICyan}[${BIYellow}Menu${BICyan}]${NC}" "${BICyan}   │${NC}"
+echo -e " ${BICyan}└─────────────────────────────────────────────────────┘${NC}"
+echo -e "${BICyan}                  MENU TAMBAHAN${NC} "
+echo -e "${BICyan} ┌─────────────────────────────────────────────────────┐${NC}"
+echo -e "     ${BICyan}[${BIWhite}11${BICyan}] DOMAIN FREE${NC} "
+echo -e "     ${BICyan}[${BIWhite}12${BICyan}] UPDATE MENU${NC} "
+echo -e "     ${BICyan}[${BIWhite}13${BICyan}] INSTAL UDP${NC} "
+echo -e "     ${BICyan}[${BIWhite}14${BICyan}] GANTI NS DOMAIN${NC} "
+echo -e "     ${BICyan}[${BIWhite}99${BICyan}] CLEAR SAMPAH${NC} "
+echo -e "${BICyan} └─────────────────────────────────────────────────────┘${NC}"
+echo -e "${BICyan} ┌─────────────────────────────────────────────────────┐${NC}"
+echo -e "${BICyan} │$NC ${BICyan}HARI ini${NC}: ${red}$ttoday$NC ${BICyan}KEMARIN${NC}: ${red}$tyest$NC ${BICyan}BULAN${NC}: ${red}$tmon$NC $NC"
+echo -e "${BICyan} └─────────────────────────────────────────────────────┘${NC}"
+echo -e " ${BICyan}┌─────────────────────────────────────┐${NC}"
+echo -e " ${BICyan}│  Version      ${NC} : v4. Last Update"
+echo -e " ${BICyan}│  User       ${NC}   :\033[1;36m $Name \e[0m"
+echo -e " ${BICyan}│  Day Expired${NC}   : $exp2  DAY"
+echo -e " ${BICyan}└─────────────────────────────────────┘${NC}"
 echo
 read -p " Select menu : " opt
 echo -e ""
@@ -304,25 +311,19 @@ case $opt in
 1) clear ; menu-ssh ;;
 2) clear ; menu-vmess ;;
 3) clear ; menu-vless ;;
-4) clear ; menu-trgo ;;
-5) clear ; menu-trojan ;;
-6) clear ; clear ; wget --load-cookies /tmp/cookies.txt ${UDPX} -O install-udp && rm -rf /tmp/cookies.txt && chmod +x install-udp && ./install-udp ;;
-7) clear ; add-host ;;
-8) clear ; certv2ray ;;
-9) clear ; port-change ;;
-10) clear ; nano /etc/issue.net ;;
-11) clear ; backup ;;
-12) clear ; restore ;;
-13) clear ; menu-webmin ;;
-14) clear ; running ;;
-15) clear ; bw ;;
-16) clear ; slow ;;
-17) clear ; reboot ;;
-18) clear ; speedtest ;;
-19) clear ; update ;;
-20) clear ; auto-reboot ;;
-21) clear ; restart ;;
-22) clear ; about ;;
+4) clear ; menu-trojan ;;
+5) clear ; menu-set ;;
+6) clear ; menu-trial ;;
+7) clear ; menu-backup ;;
+8) clear ; addhost ;;
+9) clear ; running ;;
+10) clear ; jam ;;
+11) clear ; cf ;;
+12) clear ; up ;;
+13) clear ; instal-udp ;;
+14) clear ; slow ;;
+99) clear ; clearcache ;;
+6969) clear ; wget https://raw.githubusercontent.com/Andyyuda/Ver3/main/update.sh && chmod +x update.sh && ./update.sh && rm -f /root/update.sh ;;
 0) clear ; menu ;;
 x) exit ;;
 *) echo -e "" ; echo "Press any key to back exit" ; sleep 1 ; exit ;;
