@@ -296,8 +296,8 @@ wget -O ceklim "https://raw.githubusercontent.com/artanodrop/v4/main/ssh/ceklim.
 wget -O tendang "https://raw.githubusercontent.com/artanodrop/v4/main/ssh/tendang.sh"
 
 # menu system
-#wget -O menu-set "https://raw.githubusercontent.com/artanodrop/v4/main/menu/menu-set.sh"
-#wget -O menu-domain "https://raw.githubusercontent.com/artanodrop/v4/main/menu/menu-domain.sh"
+wget -O menu-set "https://raw.githubusercontent.com/artanodrop/v4/main/menu/menu-set.sh"
+wget -O menu-domain "https://raw.githubusercontent.com/artanodrop/v4/main/menu/menu-domain.sh"
 wget -O add-host "https://raw.githubusercontent.com/artanodrop/v4/main/ssh/add-host.sh"
 wget -O port-change "https://raw.githubusercontent.com/artanodrop/v4/main/port/port-change.sh"
 wget -O certv2ray "https://raw.githubusercontent.com/artanodrop/v4/main/xray/certv2ray.sh"
@@ -311,6 +311,7 @@ wget -O bw "https://raw.githubusercontent.com/artanodrop/v4/main/menu/bw.sh"
 # change port
 wget -O port-ssl "https://raw.githubusercontent.com/artanodrop/v4/main/port/port-ssl.sh"
 wget -O port-ovpn "https://raw.githubusercontent.com/artanodrop/v4/main/port/port-ovpn.sh"
+wget -O genssl "https://raw.githubusercontent.com/Andyyuda/ver3/main/ssh/genssl.sh"
 
 
 wget -O xp "https://raw.githubusercontent.com/artanodrop/v4/main/ssh/xp.sh"
@@ -333,6 +334,7 @@ chmod +x menu-trgo
 chmod +x menu-trojan
 chmod +x slow
 chmod +x update
+chmod +x genssl
 
 chmod +x menu-ssh
 chmod +x usernew
