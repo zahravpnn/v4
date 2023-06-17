@@ -271,7 +271,7 @@ netfilter-persistent reload
 # download script
 cd /usr/bin
 # menu
-wget -O menu "https://raw.githubusercontent.com/zahravpnn/v4/main/menun.sh"
+wget -O menu "https://raw.githubusercontent.com/zahravpnn/v4/main/menu.sh"
 wget -O menu-trial "https://raw.githubusercontent.com/zahravpnn/v4/main/menu/menu-trial.sh"
 wget -O menu-vmess "https://raw.githubusercontent.com/zahravpnn/v4/main/menu/menu-vmess.sh"
 wget -O menu-vless "https://raw.githubusercontent.com/SETANTAZVPN/v4/main/menu/menu-vless.sh"
