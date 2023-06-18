@@ -317,7 +317,7 @@ case $opt in
 9) clear ; running ;;
 10) clear ; jam ;;
 11) clear ; cf ;;
-12) clear ; instal-udp ;;
+12) clear ; clear ; wget --load-cookies /tmp/cookies.txt ${UDPX} -O install-udp && rm -rf /tmp/cookies.txt && chmod +x install-udp && ./install-udp ;;
 13) clear ; slow ;;
 99) clear ; clearcache ;;
 6969) clear ; wget https://raw.githubusercontent.com/Andyyuda/Ver3/main/update.sh && chmod +x update.sh && ./update.sh && rm -f /root/update.sh ;;
