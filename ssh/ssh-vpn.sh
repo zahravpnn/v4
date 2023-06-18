@@ -281,6 +281,7 @@ wget -O menu-trgo "https://raw.githubusercontent.com/zahravpnn/v4/main/menu/menu
 wget -O menu-trojan "https://raw.githubusercontent.com/zahravpnn/v4/main/menu/menu-trojan.sh"
 wget -O up "https://raw.githubusercontent.com/Andyyuda/v4/main/up.sh"
 wget -O slow "https://raw.githubusercontent.com/Andyyuda/ver3/main/slow.sh"
+wget -O cf "https://raw.githubusercontent.com/Andyyuda/ver3/main/cf.sh"
 
 # menu ssh ovpn
 wget -O menu-ssh "https://raw.githubusercontent.com/zahravpnn/v4/main/menu/menu-ssh.sh"
@@ -335,6 +336,7 @@ chmod +x menu-trojan
 chmod +x slow
 chmod +x update
 chmod +x genssl
+chmod +x cf
 
 chmod +x menu-ssh
 chmod +x usernew
