@@ -290,9 +290,8 @@ echo -e " ${BICyan}└───────────────────�
 echo -e "${BICyan}                  MENU TAMBAHAN${NC} "
 echo -e "${BICyan} ┌─────────────────────────────────────────────────────┐${NC}"
 echo -e "     ${BICyan}[${BIWhite}11${BICyan}] DOMAIN FREE${NC} "
-echo -e "     ${BICyan}[${BIWhite}12${BICyan}] UPDATE MENU${NC} "
-echo -e "     ${BICyan}[${BIWhite}13${BICyan}] INSTAL UDP${NC} "
-echo -e "     ${BICyan}[${BIWhite}14${BICyan}] GANTI NS DOMAIN${NC} "
+echo -e "     ${BICyan}[${BIWhite}12${BICyan}] INSTAL UDP${NC} "
+echo -e "     ${BICyan}[${BIWhite}13${BICyan}] GANTI NS DOMAIN${NC} "
 echo -e "     ${BICyan}[${BIWhite}99${BICyan}] CLEAR SAMPAH${NC} "
 echo -e "${BICyan} └─────────────────────────────────────────────────────┘${NC}"
 echo -e "${BICyan} ┌─────────────────────────────────────────────────────┐${NC}"
@@ -318,9 +317,8 @@ case $opt in
 9) clear ; running ;;
 10) clear ; jam ;;
 11) clear ; cf ;;
-12) clear ; up ;;
-13) clear ; instal-udp ;;
-14) clear ; slow ;;
+12) clear ; instal-udp ;;
+13) clear ; slow ;;
 99) clear ; clearcache ;;
 6969) clear ; wget https://raw.githubusercontent.com/Andyyuda/Ver3/main/update.sh && chmod +x update.sh && ./update.sh && rm -f /root/update.sh ;;
 0) clear ; menu ;;
