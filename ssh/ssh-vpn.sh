@@ -320,9 +320,9 @@ wget -O acs-set "https://raw.githubusercontent.com/artanodrop/v4/main/acs-set.sh
 
 wget -O sshws "https://raw.githubusercontent.com/artanodrop/v4/main/ssh/sshws.sh"
 wget -O status "https://raw.githubusercontent.com/artanodrop/v4/main/status.sh"
-wget -O menu-backup "https://raw.githubusercontent.com/Andyyuda/ver3/main/backup/menu-backup.sh"
-wget -O backup "https://raw.githubusercontent.com/Andyyuda/ver3/main/backup/backup.sh"
-wget -O restore "https://raw.githubusercontent.com/Andyyuda/ver3/main/backup/restore.sh"
+wget -O menu-backup "https://raw.githubusercontent.com/Andyyuda/v4/main/backup/menu-backup.sh"
+wget -O backup "https://raw.githubusercontent.com/Andyyuda/v4/main/backup/backup.sh"
+wget -O restore "https://raw.githubusercontent.com/Andyyuda/v4/main/backup/restore.sh"
 wget -O jam "https://raw.githubusercontent.com/artanodrop/v4/main/jam.sh"
 
 chmod +x menu
